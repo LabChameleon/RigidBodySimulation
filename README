@@ -1,0 +1,4 @@
+A rigid body simulation of circles and rectangles. The rectangles can only be static so
+their rotation is not taken into account. Left mouse button spawns a new ball a the cursors position
+and starts simulating the physically correct behavior of all the existing balls and their
+interactions.
